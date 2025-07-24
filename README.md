@@ -1,3 +1,4 @@
+
 # 🛠️ RLC Bausoftware
 
 **Modernste Baukalkulation & Abrechnung mit KI – Version 2025**
@@ -131,4 +132,3 @@
 ---
 
 > Dieses Projekt ist urheberrechtlich geschützt. Alle Rechte vorbehalten.
-
